@@ -1,5 +1,3 @@
-#Requests¹Ù·½ÖĞÎÄÎÄµµ
-
-#¿ìËÙÉÏÊÖ:http://docs.python-requests.org/zh_CN/latest/user/quickstart.html
-
-#¸ß¼¶ÓÃ·¨:http://docs.python-requests.org/zh_CN/latest/user/advanced.html#advanced
+#Requestså®˜æ–¹ä¸­æ–‡æ–‡æ¡£
+#å¿«é€Ÿä¸Šæ‰‹:http://docs.python-requests.org/zh_CN/latest/user/quickstart.html
+#é«˜çº§ç”¨æ³•:http://docs.python-requests.org/zh_CN/latest/user/advanced.html#advanced
