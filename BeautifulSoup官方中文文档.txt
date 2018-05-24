@@ -1,1 +1,2 @@
-#BeautifulSoup4.2.0文档:https://www.crummy.com/software/BeautifulSoup/bs4/doc.zh/
+#BeautifulSoup4.2.0文档-https://www.crummy.com/software/BeautifulSoup/bs4/doc.zh/
+#BeautifulSoup中的find,find_all-https://www.cnblogs.com/keye/p/7868059.html
