@@ -1,3 +1,6 @@
+[Python处理csv文件](https://www.jianshu.com/p/0960e745f9ef)
+---
+
 CSV(Comma-Separated Values)即逗号分隔值，可以用Excel打开查看。由于是纯文本，任何编辑器也都可打开。与Excel文件不同，CSV文件中：<br>
 * 值没有类型，所有值都是字符串
 * 不能指定字体颜色等样式
