@@ -17,7 +17,8 @@ EVERYTHING
 * [使用Python解数学方程](https://zhuanlan.zhihu.com/p/24840337)
 * [文档|Electron](https://electronjs.org/docs)
 * [负数的二进制表示方法](http://www.cnblogs.com/junsky/archive/2009/08/06/1540727.html)
-  
+* [反码与按位取反](https://www.cnblogs.com/shigeng/p/8087981.html)
+
 ### 文件类
 * [Brook](./src/Brook.md)
 * [NeteaseAPI](./src/NeteaseAPI.md)
