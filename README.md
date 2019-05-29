@@ -19,7 +19,7 @@ EVERYTHING
 * [负数的二进制表示方法](http://www.cnblogs.com/junsky/archive/2009/08/06/1540727.html)
 * [反码与按位取反](https://www.cnblogs.com/shigeng/p/8087981.html)
 * [有符号数和无符号数详解](https://blog.csdn.net/u011974987/article/details/52142794)
-* [什么是动态规划？动态规划的意义是什么？](https://www.zhihu.com/question/307758373)
+* [什么是动态规划？动态规划的意义是什么？](https://www.zhihu.com/question/23995189)
 
 ### 文件类
 * [Brook](./src/Brook.md)
